@@ -1,0 +1,22 @@
+{
+  "name": "angular-progressbar",
+  "main": "angular-progressbar.js",
+  "version": "0.1.0",
+  "authors": [
+    "Felipe Campos Clarke <felipecamposclarke@gmail.com>"
+  ],
+  "description": "Progressbar.js support for AngularJS http://kimmobrunfeldt.github.io/progressbar.js/",
+  "license": "MIT",
+  "homepage": "https://github.com/felipecamposclarke/angular-progressbar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">=1.0.6",
+    "progressbar.js": "~0.5.0"
+  }
+}
