@@ -54,8 +54,6 @@ In the HTML you add an attribute called `options` and you put the scope variable
 <pb-circle progress-key="myLine" options="circleOptions"></pb-circle>
 ```
 
-~~I have not figured out how to use the `$pbService` to animate, set or stop the progress bar...~~
-
 ## `animate`, `set`, or `stop`
 
 Turns out that you can handle the animate, set or stop through the controller, e.g.: 
